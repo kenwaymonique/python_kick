@@ -1,0 +1,1 @@
+['Menor preço via Shoptime', 'Menor preço via Americanas', 'Menor preço via Submarino', 'Menor preço via Shoptime', 'Menor preço via Americanas', 'Menor preço via Submarino']
